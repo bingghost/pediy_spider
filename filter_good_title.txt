@@ -1,0 +1,14 @@
+【分享】安卓源码+内核修改编译(修改内核调试标志绕过反调试)   http://bbs.pediy.com/showthread.php?t=213481
+【原创】安卓刷量技术揭秘(一) 工具篇   http://bbs.pediy.com/showthread.php?t=213042
+【原创】安卓Stagefright高危漏洞分析学习总结   http://bbs.pediy.com/showthread.php?t=213490
+调试篇---安卓arm/x86平台之IDA or GDB长驱直入   http://bbs.pediy.com/showthread.php?t=206654
+【原创】安卓刷量技术揭秘(二) 高级攻防技巧   http://bbs.pediy.com/showthread.php?t=213043
+【分享】安卓一键Root软件揭秘和海外留学机会   http://bbs.pediy.com/showthread.php?t=212575
+【原创】【首发】cve-2015-0569 安卓手机提权ROOT漏洞 分析   http://bbs.pediy.com/showthread.php?t=208066
+【原创】安卓加密壳（dexcrypt) , 防止apktool,dex2jar 等工具逆向你的apk，附上下载地址   http://bbs.pediy.com/showthread.php?t=177590
+【原创】【首发】CVE-2015-1805 安卓手机提权ROOT漏洞 分析   http://bbs.pediy.com/showthread.php?t=210503
+【原创】注入安卓进程,并hook java世界的方法   http://bbs.pediy.com/showthread.php?t=186054
+【原创】安卓代码跟踪方式学习笔记   http://bbs.pediy.com/showthread.php?t=195202
+【原创】安卓5.0oat文件原生逆向浅析视频教程   http://bbs.pediy.com/showthread.php?t=207877
+【原创】微曝光两个安卓腾讯应用的细节   http://bbs.pediy.com/showthread.php?t=163042
+【讨论】（安卓）有没有人有兴趣做一些基础性的项目，欢迎讨论！   http://bbs.pediy.com/showthread.php?t=183442
